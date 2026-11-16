@@ -361,32 +361,4 @@ reported results.
 8.  Clustering summarises behaviour over the observed period and does
     not establish that station groups will remain stable in the future.
 
-------------------------------------------------------------------------
 
-## Repository contents
-
--   `Melbourne_EV_Charging_Final.ipynb` --- complete analysis,
-    modelling, evaluation, and visualisations.
--   `README.md` --- project overview, methods, results, and
-    instructions.
--   `requirements.txt` --- Python dependencies.
--   `data/` --- source CSV files, if redistribution is permitted.
-
-## Acknowledgement and data provenance
-
-The analysis is based on the supplied CHARGED hourly Melbourne (MEL)
-dataset files. Add the dataset's original publication, author, licence,
-and download URL here if those details are available from the source
-documentation. Do not claim ownership of the underlying dataset unless
-that is accurate.
-
-## Authors
-
-Add the project author(s), course, institution, and contact information
-here.
-
-## License
-
-Add an appropriate repository licence after confirming the rights to
-distribute the notebook and any included data. A code licence does not
-automatically grant permission to redistribute third-party datasets.
